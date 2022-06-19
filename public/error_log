@@ -1,0 +1,11 @@
+[16-Jun-2022 23:08:35 UTC] PHP Notice:  Trying to get property 'SKU' of non-object in /home/optizuib/phpproject.optimumdelivery.net/app/controllers/ProductsController.php on line 75
+[16-Jun-2022 23:08:35 UTC] PHP Notice:  Trying to get property 'Name' of non-object in /home/optizuib/phpproject.optimumdelivery.net/app/controllers/ProductsController.php on line 76
+[16-Jun-2022 23:08:35 UTC] PHP Notice:  Undefined index: Type in /home/optizuib/phpproject.optimumdelivery.net/app/views/products/edit.php on line 21
+[16-Jun-2022 23:09:48 UTC] PHP Notice:  Trying to get property 'SKU' of non-object in /home/optizuib/phpproject.optimumdelivery.net/app/controllers/ProductsController.php on line 75
+[16-Jun-2022 23:09:48 UTC] PHP Notice:  Trying to get property 'Name' of non-object in /home/optizuib/phpproject.optimumdelivery.net/app/controllers/ProductsController.php on line 76
+[16-Jun-2022 23:13:23 UTC] PHP Notice:  Trying to get property 'SKU' of non-object in /home/optizuib/phpproject.optimumdelivery.net/app/controllers/ProductsController.php on line 75
+[16-Jun-2022 23:13:23 UTC] PHP Notice:  Trying to get property 'Name' of non-object in /home/optizuib/phpproject.optimumdelivery.net/app/controllers/ProductsController.php on line 76
+[16-Jun-2022 23:16:22 UTC] PHP Notice:  Trying to get property 'SKU' of non-object in /home/optizuib/phpproject.optimumdelivery.net/app/controllers/ProductsController.php on line 75
+[16-Jun-2022 23:16:22 UTC] PHP Notice:  Trying to get property 'Name' of non-object in /home/optizuib/phpproject.optimumdelivery.net/app/controllers/ProductsController.php on line 76
+[16-Jun-2022 23:16:28 UTC] PHP Notice:  Trying to get property 'SKU' of non-object in /home/optizuib/phpproject.optimumdelivery.net/app/controllers/ProductsController.php on line 75
+[16-Jun-2022 23:16:28 UTC] PHP Notice:  Trying to get property 'Name' of non-object in /home/optizuib/phpproject.optimumdelivery.net/app/controllers/ProductsController.php on line 76
